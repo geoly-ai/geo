@@ -1,0 +1,24 @@
+{
+  "skill_name": "geo-multilingual-optimizer",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "We have a GEO-optimized English landing page about our SaaS security platform, and we want to adapt it for Spanish (Spain), Spanish (Latin America), and German. Design a multilingual GEO plan so AI models (ChatGPT, Perplexity, Gemini) consistently cite the right localized pages instead of random third-party blog posts.",
+      "expected_output": "A structured multilingual GEO plan with sections for multilingual brief, source content readiness, language/locale mapping, terminology map, localized page blueprints, structured data package, AI & crawler signaling, and a final execution plan.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "Our English documentation for a developer API is well-structured, but ChatGPT answers in French and Japanese are often incomplete or point to unofficial tutorials. Using the geo-multilingual-optimizer workflow, create a strategy to localize the docs and align AI citations across EN, FR, and JA.",
+      "expected_output": "A plan that inventories the English source docs, defines target locales and audiences, builds a multilingual terminology map, proposes localized doc structures for FR and JA, and recommends schemas, hreflang, and llms.txt / sitemap strategies to improve AI visibility.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "We are a global e-commerce brand with product detail pages currently in English and German only. We want to expand to Spanish and Brazilian Portuguese, and ensure AI search surfaces the correct localized PDPs when users ask in their native language. Use the geo-multilingual-optimizer workflow to outline the end-to-end localization and GEO signaling plan.",
+      "expected_output": "An end-to-end multilingual GEO plan that covers product terminology mapping, localized PDP outlines per language, URL and hreflang conventions, structured data recommendations per locale, internal linking and llms.txt strategy, and success metrics for multilingual AI citations.",
+      "files": []
+    }
+  ]
+}
+
